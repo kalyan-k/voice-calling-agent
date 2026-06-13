@@ -1,0 +1,6 @@
+research-dashboard-app/node_modules
+research-dashboard-app/frontend/node_modules
+research-dashboard-app/backend/node_modules
+research-dashboard-app/.env
+research-dashboard-app/frontend/.env
+research-dashboard-app/backend/.env
